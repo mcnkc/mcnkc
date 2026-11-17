@@ -16,7 +16,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-[![Mustafa's GitHub stats](https://github-stats-extended.vercel.app/api?username=d4s1337)](https://github.com/stats-organization/github-stats-extended)
+[![Mustafa's GitHub stats](https://github-stats-extended.vercel.app/api?username=mcnkc)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
