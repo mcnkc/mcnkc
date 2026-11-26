@@ -29,7 +29,7 @@
 
 ## 💖 Support Me
 if u like how i make things, wanna sponsor me?  
-[![Sponsor](https://img.shields.io/badge/Sponsor-d4s1337-pink?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/d4s1337)
+[![Sponsor](https://img.shields.io/badge/Sponsor-mcnkc-pink?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/mcnkc)
 
 ---
 
